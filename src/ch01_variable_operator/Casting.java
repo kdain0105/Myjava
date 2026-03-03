@@ -14,7 +14,7 @@ public class Casting {
         System.out.println((double)14/5);// (정수)/(정수) = (정수)
 
         // (double)(14/5) => (double)2 => 2.0
-        System.out.println((double)(14/5));// (정수)/(정수) = (정수).
+        System.out.println((double)(14/5));// (정수)/(정수) = (정수)
 
         int kor = 50, eng = 60, math = 80 ;
         int total = kor + eng + math;
