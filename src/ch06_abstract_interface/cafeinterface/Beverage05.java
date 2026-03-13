@@ -19,6 +19,7 @@ abstract public class Beverage05 {
         return name;
     }
 
+
     // 모든 음료는 마십니다.
     // 추상 메소드는 바디({...})를 가질 수 없음, 할 동작X
     public abstract void drink(); //
